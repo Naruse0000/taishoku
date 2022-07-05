@@ -1,0 +1,8 @@
+streamlit
+numpy
+pandas
+matplotlib
+japanize_matplotlib
+seaborn
+imblearn
+scikit-learn
